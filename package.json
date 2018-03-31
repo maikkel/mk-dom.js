@@ -1,0 +1,8 @@
+{
+  "name": "mk-dom",
+  "version": "1.0.0",
+  "description": "Fast jQuery replacement (not all functions included, only modern browsers)",
+  "main": "src/mk-dom.js",
+  "author": "Maik Kellerhals <maik.kellerhals@gmail.com>",
+  "license": "MIT"
+}
